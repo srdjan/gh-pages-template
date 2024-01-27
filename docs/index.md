@@ -32,7 +32,6 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 
 ## Table
 | Regular Column | Long Column |
-
 | Template | air.css |
 
 ## Menu
