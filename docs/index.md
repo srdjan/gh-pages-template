@@ -24,6 +24,7 @@ Some info on how to make a site like this and how it works.
 
 
 ## Table
+
 | Regular Column | Long Column |
 | -------------- | ----------- |
 | Template | air.css |
