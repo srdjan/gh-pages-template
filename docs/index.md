@@ -30,6 +30,10 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 - Read the tutorial content under template notes.
 - View this live demo site.
 
+## Table
+| Regular Column | Long Column |
+
+| Template | air.css |
 
 ## Menu
 
