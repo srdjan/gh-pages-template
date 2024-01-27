@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# **Documentation**
+# **Documentation for my project**
 > How this project works and how to maintain your own
 
 <div align="center">
